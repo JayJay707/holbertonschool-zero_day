@@ -1,3 +1,3 @@
 # holbertonschool-zero_day
 
-This is project 0x00. Vagrant for Holberton School
+This is the repository for project 0x00 Vagrant for Holberton School.

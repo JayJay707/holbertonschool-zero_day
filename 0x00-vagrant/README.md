@@ -1,0 +1,1 @@
+This project is about learning what a virtual machine is, how to use Virtual Box and Vagrant, and how to use Git and GitHub.
