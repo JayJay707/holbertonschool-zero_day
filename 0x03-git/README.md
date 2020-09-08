@@ -1,1 +1,1 @@
-This project is about learning how to use Git.
+This is a project about learning how to use Git.
